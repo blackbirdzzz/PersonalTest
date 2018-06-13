@@ -1,0 +1,8 @@
+﻿#container {
+  margin-top: 5%;
+  margin-left: 10%;
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  display: none;
+}

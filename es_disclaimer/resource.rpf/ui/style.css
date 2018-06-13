@@ -1,0 +1,461 @@
+﻿h1
+{
+	color: #FF3737;
+	font-family: 'Teko', sans-serif;
+	font-size: 50px;
+	margin-bottom: 0em;				/* FOR NEWLINE UNDER H1 WITHOUT SPACE */
+	margin: 0px;					/* DONT REMOVE */
+    padding: 0px;					/* DONT REMOVE */
+	padding-right: 20px;			/* CENTER */
+	text-shadow: 2px 2px 5px #000000;
+	text-align: center;
+}
+
+h2
+{
+	color: #FF3737;
+	font-family: 'Teko', sans-serif;
+	font-size: 24px;
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 0em;
+	text-shadow: 2px 2px 5px #000000;
+}
+
+h3
+{
+	color: #FF3737;
+	font-family: 'Teko', sans-serif;
+	font-size: 25px;
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 0em;
+	text-shadow: 2px 2px 5px #000000;
+}
+
+h4
+{
+	color: #FF3737;
+	z-index: 1;						/* LAYER PAGE NUMBER POSITION */
+	position: absolute;
+	top: 55px;
+	right: 50px;
+	font-family: 'Teko', sans-serif;
+	font-size: 50px;
+	text-shadow: 2px 2px 5px #000000;
+}
+
+
+p, li
+{
+	color: #FFFFFF;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+ul
+{
+	list-style-type: circle;
+}
+
+header
+{
+	height: 80px;
+	width: 725px;
+	margin: 80px 0 0 450px;
+	background-image: url('img/logo.png');
+	background-size: 12% 100%; 			/*FOR THE LOGO REZISE */
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+section
+{
+	width: 700px;
+	margin: 0 0 0 450px;
+	padding: 0 0 10px 25px;
+	text-align: left;
+}
+
+/* FLOATS FOR SIDE TO SIDE DISPLAY */
+aside
+{
+	width: 30%;
+	padding: 0 0 0 20px;
+	float: left;		
+	text-align: left;
+}
+
+footer
+{
+   position: absolute;
+   width: 725px;
+   height: 135px;
+   margin: 0px 0 0 450px;
+   bottom: 1%; 			/* FIX IT TO THE BOTTOM */
+   text-align: center;
+}
+
+/* FOR SMALL TEXT */
+.small
+{
+	padding: 0 20px 0 0;
+	color: #FFFFFF;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+}
+
+/* 1 CONTAINER = 1 SLIDE */
+.container1
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container1.png');	/* 1200x840 */
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container2
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container2.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container3
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container3.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container4
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container4.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container5
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container5.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container6
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container6.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container7
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container7.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container8
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container8.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container9
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container9.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container10
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container10.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container11
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container11.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container12
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container12.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container13
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container13.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container14
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container14.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container15
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container15.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container16
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container16.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container17
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container17.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container18
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container18.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container19
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container19.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+.container20
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container20.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container21
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container21.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container22
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container22.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container23
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container23.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container24
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container24.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container25
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container25.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container26
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container26.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+.container27
+{
+	position: absolute;
+	width: 1200px;
+	height: 840px;
+	margin: 100px 0 0 350px;
+	text-align: center;
+	background: url('img/container27.png');
+    background-position: center;
+	background-repeat: no-repeat;
+}
+
+/* TXT COLORS */
+.red
+{
+	color: red;
+}
+
+.yellow
+{
+	color: yellow;
+}
+
+.green
+{
+	color: green;
+}
+
+.blue
+{
+	color: cyan;
+}
+
+/* FOR JAVASCRIPT */
+#page1, #page2, #page3, #page4, #page5, #page6, #page7, #page8, #page9, #page10, #page11, #page12, #page13, #page14, #page15, #page16, #page17, #page18, #page19, #page20, #page21, #page22, #page23, #page24, #page25, #page26, #page27 {
+  display: none;
+}

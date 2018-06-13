@@ -1,0 +1,17 @@
+function AddTextEntry(key, value)
+	Citizen.InvokeNative(GetHashKey("ADD_TEXT_ENTRY"), key, value)
+end
+
+Citizen.CreateThread(function()
+	AddTextEntry('0xEB00C549', 'brickade6')
+	--AddTextEntry('0x36F2D2CF', 'buffalo6')
+	AddTextEntry('0xAFBF78E3', 'caddy6')
+	--AddTextEntry('0x375B581D', 'crown6')
+	--AddTextEntry('0xCE745AED', 'charger6')
+	AddTextEntry('0x4D4B4CFE', 'frogger6')
+	AddTextEntry('0x3047178A', 'fugitive6')
+	--AddTextEntry('0x19CDD80A', 'mesa6')
+	AddTextEntry('0x941ECB1',  'pranger6')
+	AddTextEntry('0xAA5DA780', 'rumpo6')
+	--AddTextEntry('0xFEFDC9FF', 'setina6')
+end)

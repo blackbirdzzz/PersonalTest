@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>brickade6</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            0 
+            0
+            0 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0 
+            0 
+            0
+            0 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0 
+            0 
+            0
+            0 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0 
+            0 
+            0
+            0 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1" />
+    </Item>
+	<Item>
+	<Item>
+      <modelName>buffalo6</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="134" />
+            <Item value="134" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="22" />
+    </Item>
+	<modelName>charger6</modelName>
+		<colors>
+		<Item>
+			<indices content="char_array"> 
+				134 
+				134 
+				156 
+				156 
+				</indices>
+			<liveries>
+				<Item value="true" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+			</liveries>
+		</Item>
+		<Item>
+			<indices content="char_array"> 
+				134 
+				134 
+				156 
+				156 
+			</indices>
+			<liveries>
+				<Item value="false" />
+				<Item value="true" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+			</liveries>
+		</Item>
+		<Item>
+			<indices content="char_array"> 
+				134 
+				134 
+				156 
+				156 
+			</indices>
+			<liveries>
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="true" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+			</liveries>
+		</Item>
+		<Item>
+			<indices content="char_array"> 
+				134 
+				134 
+				156 
+				156 
+			</indices>
+			<liveries>
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="true" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+			</liveries>
+		</Item>
+		<Item>
+			<indices content="char_array"> 
+				134 
+				134 
+				156 
+				156 
+			</indices>
+			<liveries>
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="true" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+			</liveries>
+		</Item>
+		</colors>
+		<kits>
+			<Item>1002_hwaycar2_modkit</Item>
+		</kits>
+		<windowsWithExposedEdges />
+		<plateProbabilities>
+			<Probabilities />
+		</plateProbabilities>
+		<lightSettings value="1" />
+		<sirenSettings value="1" />
+	</Item>
+	<Item>
+		<modelName>crown6</modelName>
+		<colors>
+			<Item>
+				<indices content="char_array"> 
+					134 
+					134 
+					156 
+					156 
+				</indices>
+				<liveries>
+					<Item value="true" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+				</liveries>
+			</Item>
+			<Item>
+				<indices content="char_array"> 
+					134 
+					134 
+					156 
+					156 
+				</indices>
+				<liveries>
+					<Item value="false" />
+					<Item value="true" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+				</liveries>
+			</Item>
+			<Item>
+				<indices content="char_array"> 
+					134 
+					134 
+					156 
+					156 
+				</indices>
+				<liveries>
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="true" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+				</liveries>
+			</Item>
+			<Item>
+				<indices content="char_array"> 
+					134 
+					134 
+					156 
+					156 
+				</indices>
+				<liveries>
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="true" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+				</liveries>
+			</Item>
+			<Item>
+				<indices content="char_array"> 
+					134 
+					134 
+					156 
+					156 
+				</indices>
+				<liveries>
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="true" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+				</liveries>
+			</Item>
+		</colors>
+		<kits>
+			<Item>1001_hwaycar_modkit</Item>
+		</kits>
+		<windowsWithExposedEdges />
+		<plateProbabilities>
+			<Probabilities />
+		</plateProbabilities>
+		<lightSettings value="1" />
+		<sirenSettings value="1" />
+	</Item>
+	<Item>
+		<modelName>fugitive6</modelName>
+		<colors>
+			<Item>
+          <indices content="char_array">
+			134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>650_empty_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="4" />
+    </Item>
+	<Item>
+      <modelName>mesa6</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="134" />
+            <Item value="134" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="70" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="30" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="22" />
+    </Item>
+		<Item>
+      <modelName>pranger6</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            <Item value="134" />
+            <Item value="134" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="70" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="30" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="22" />
+    </Item>
+	<Item>
+		<modelName>rumpo6</modelName>
+		<colors>
+        <Item>
+          <indices content="char_array">
+			134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>651_luxrumpo_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="4" />
+    </Item>
+	<Item>
+		<modelName>setina6</modelName>
+		<colors>
+			<Item>
+				<indices content="char_array"> 
+					134 
+					134 
+					156 
+					156 
+				</indices>
+				<liveries>
+					<Item value="true" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+				</liveries>
+			</Item>
+			<Item>
+				<indices content="char_array"> 
+					134 
+					134 
+					156 
+					156 
+				</indices>
+				<liveries>
+					<Item value="false" />
+					<Item value="true" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+				</liveries>
+			</Item>
+			<Item>
+				<indices content="char_array"> 
+					134 
+					134 
+					156 
+					156 
+				</indices>
+				<liveries>
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="true" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+				</liveries>
+			</Item>
+			<Item>
+				<indices content="char_array"> 
+					134 
+					134 
+					156 
+					156 
+				</indices>
+				<liveries>
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="true" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+				</liveries>
+			</Item>
+			<Item>
+				<indices content="char_array"> 
+					134 
+					134 
+					156 
+					156 
+				</indices>
+				<liveries>
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="true" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+					<Item value="false" />
+				</liveries>
+			</Item>
+		</colors>
+		<kits>
+			<Item>1006_hwaycar6_modkit</Item>
+		</kits>
+		<windowsWithExposedEdges />
+		<plateProbabilities>
+			<Probabilities />
+		</plateProbabilities>
+		<lightSettings value="1" />
+		<sirenSettings value="1" />
+	</Item>
+	</variationData>
+</CVehicleModelInfoVariation>
